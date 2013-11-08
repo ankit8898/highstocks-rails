@@ -25,7 +25,15 @@ Add the gem to the Gemfile
 In your JavaScript manifest (e.g. `application.js`)
 
     //= require highstocks-rails
+
+for other themes
     
+    //= require highstocks/themes/dark-blue
+    //= require highstocks/themes/dark-green
+    //= require highstocks/themes/gray
+    //= require highstocks/themes/grid
+    //= require highstocks/themes/skies
+
 ### Supports both highstocks and highcharts :neckbeard:
 
 ![alt txt](https://raw.github.com/ankit8898/hs-rails/master/app/assets/images/ss1.jpg)
