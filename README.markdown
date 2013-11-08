@@ -21,7 +21,10 @@ In your JavaScript manifest (e.g. `application.js`)
     
 ### Supports both highstocks and highcharts :neckbeard:
 
+![alt txt](https://raw.github.com/ankit8898/hs-rails/master/app/assets/images/ss1.jpg)
 
+
+![alt txt](https://raw.github.com/ankit8898/hs-rails/master/app/assets/images/ss2.jpg)
 
 ## Licensing
 
