@@ -1,5 +1,7 @@
 [![Gem Version](https://badge.fury.io/rb/highstocks-rails.png)](http://badge.fury.io/rb/highstocks-rails)
 
+[![Dependency Status](https://gemnasium.com/ankit8898/highstocks-rails.png)](https://gemnasium.com/ankit8898/highstocks-rails)
+
 # Highstocks-Rails
 
 This gem just includes [Highstocks](http://www.highcharts.com/products/highstock) as an asset in the Rails 3.1 (or newer) asset pipeline.
