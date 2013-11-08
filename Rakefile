@@ -1,3 +1,5 @@
 require 'bundler/gem_tasks'
 
-task :default => :test
+task :default do
+  puts "Hello Highstocks-rails!"
+end
