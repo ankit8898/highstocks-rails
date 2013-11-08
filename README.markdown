@@ -18,7 +18,7 @@ HighStocks is not free for commercial use, so make sure you have a [valid licens
 
 The answer is here [in this link](http://www.highcharts.com/errors/16),all features of Highcharts are included in Highstock.
 
-Here is a [Sample Application](http://hidden-peak-3935.herokuapp.com)] showing the usage and also plotting both highstocks and highcharts. :thumbsup:
+Here is a [Sample Application](http://hidden-peak-3935.herokuapp.com) showing the usage and also plotting both highstocks and highcharts. :thumbsup:
 
 ## Installation
 
