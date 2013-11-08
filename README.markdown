@@ -4,7 +4,7 @@
 
 This gem just includes [Highstocks](http://www.highcharts.com/products/highstock) as an asset in the Rails 3.1 (or newer) asset pipeline.
 
-The gem currently uses Highstock 1.3.7
+The gem currently uses **Highstock 1.3.7**
 
 ## What is Highstock?
 
