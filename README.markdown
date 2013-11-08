@@ -1,6 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/highstocks-rails.png)](http://badge.fury.io/rb/highstocks-rails)
-
-[![Dependency Status](https://gemnasium.com/ankit8898/highstocks-rails.png)](https://gemnasium.com/ankit8898/highstocks-rails)
+[![Gem Version](https://badge.fury.io/rb/highstocks-rails.png)](http://badge.fury.io/rb/highstocks-rails) [![Dependency Status](https://gemnasium.com/ankit8898/highstocks-rails.png)](https://gemnasium.com/ankit8898/highstocks-rails) [![Build Status](https://travis-ci.org/ankit8898/highstocks-rails.png?branch=master)](https://travis-ci.org/ankit8898/highstocks-rails)
 
 # Highstocks-Rails
 
