@@ -30,13 +30,32 @@ In your JavaScript manifest (e.g. `application.js`)
 
     //= require highstocks-rails
 
-for other themes
-    
+
+To include one of the other adapters
+
+    //= require highstocks/adapters/mootools-adapter
+    //= require highstocks/adapters/prototype-adapter
+    //= require highstocks/adapters/standalone-framework
+
+To include one of the other modules
+
+    //= require highstocks/modules/annotations
+    //= require highstocks/modules/canvas-tools
+    //= require highstocks/modules/data
+    //= require highstocks/modules/drilldown
+    //= require highstocks/modules/exporting
+    //= require highstocks/modules/funnel
+    //= require highstocks/modules/heatmap
+    //= require highstocks/modules/no-data-to-display
+
+To include one of the other themes
+
     //= require highstocks/themes/dark-blue
     //= require highstocks/themes/dark-green
     //= require highstocks/themes/gray
     //= require highstocks/themes/grid
     //= require highstocks/themes/skies
+
 
 ### Supports both highstocks and highcharts :neckbeard:
 
@@ -47,7 +66,7 @@ for other themes
 
 ## Licensing
 
-HighStocks, has [its own, separate licensing](http://shop.highsoft.com/highstock.html).
+Highstocks, has [its own, separate licensing](http://shop.highsoft.com/highstock.html).
 
 The gem itself is released under the MIT license
 
