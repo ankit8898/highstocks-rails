@@ -14,7 +14,11 @@ Highstock lets you create stock or general timeline charts in pure JavaScript, i
 
 HighStocks is not free for commercial use, so make sure you have a [valid license](http://shop.highsoft.com/highstock.html) to use Highstocks
 
-**Note**:  Including Highstocks-rails will give you the Highcharts features also.  Here is a [Sample Application](http://hidden-peak-3935.herokuapp.com) creating both highcharts and highstocks charts. :chart_with_upwards_trend:
+## Will including this gem also give Higcharts features?
+
+The answer is here [in this link](http://www.highcharts.com/errors/16),all features of Highcharts are included in Highstock.
+
+Here is a [Sample Application](http://hidden-peak-3935.herokuapp.com)] showing the usage and also plotting both highstocks and highcharts. :thumbsup:
 
 ## Installation
 
@@ -49,3 +53,4 @@ HighStocks, has [its own, separate licensing](http://shop.highsoft.com/highstock
 
 The gem itself is released under the MIT license
 
+:pray:
