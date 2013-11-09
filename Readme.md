@@ -10,34 +10,34 @@ The gem currently uses **Highstock 1.3.7**
 
 Highstock lets you create stock or general timeline charts in pure JavaScript, including sophisticated navigation options like a small navigator series, preset date ranges, date picker, scrolling and panning.
 
-HighStocks is not free for commercial use, so make sure you have a [valid license](http://shop.highsoft.com/highstock.html) to use Highstocks
+Highstock is not free for commercial use, so make sure you have a [valid license](http://shop.highsoft.com/highstock.html) to use Highstocks.
 
 ## Will including this gem also give Higcharts features?
 
-The answer is here [in this link](http://www.highcharts.com/errors/16),all features of Highcharts are included in Highstock.
+The answer is here [in this link](http://www.highcharts.com/errors/16): Yes, all features of Highcharts are included in Highstock.
 
 Here is a [Sample Application](http://hidden-peak-3935.herokuapp.com) showing the usage and also plotting both highstocks and highcharts. :thumbsup:
 
 ## Installation
 
-Add the gem to the Gemfile
+Add the gem to the Gemfile:
 
     gem "highstocks-rails"    
 
 ## Usage
 
-In your JavaScript manifest (e.g. `application.js`)
+In your JavaScript manifest (e.g. `application.js`):
 
     //= require highstocks-rails
 
 
-To include one of the other adapters
+To include one of the other adapters:
 
     //= require highstocks/adapters/mootools-adapter
     //= require highstocks/adapters/prototype-adapter
     //= require highstocks/adapters/standalone-framework
 
-To include one of the other modules
+To include one of the other modules:
 
     //= require highstocks/modules/annotations
     //= require highstocks/modules/canvas-tools
@@ -48,7 +48,7 @@ To include one of the other modules
     //= require highstocks/modules/heatmap
     //= require highstocks/modules/no-data-to-display
 
-To include one of the other themes
+To include one of the other themes:
 
     //= require highstocks/themes/dark-blue
     //= require highstocks/themes/dark-green
