@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "highstocks-rails"
   s.version     = HighStocks::VERSION
   s.authors     = ["Ankit Gupta"]
-  s.date        = '2013-11-08'
+  s.date        = '2013-11-09'
   s.email       = ["ankit.gupta8898@gmail.com"]
   s.summary     = %q{Gem for easily adding Highstocks to the Rails Asset Pipeline}
   s.description = %q{Gem that includes Highstocks (Interactive library to create stock or general timeline charts in pure JavaScript and including sophisticated navigation options), in the Rails Asset Pipeline introduced in Rails 3.1.  Also have all the highcharts features with it.}
