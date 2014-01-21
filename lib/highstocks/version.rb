@@ -1,3 +1,3 @@
 module HighStocks
-  VERSION = "0.0.3"
+  VERSION = "1.3.9"
 end

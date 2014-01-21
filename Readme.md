@@ -4,7 +4,7 @@
 
 This gem just includes [Highstocks](http://www.highcharts.com/products/highstock) as an asset in the Rails 3.1 (or newer) asset pipeline.
 
-The gem currently uses **Highstock 1.3.7**
+The gem currently uses **Highstock 1.3.9**
 
 ## What is Highstock?
 
@@ -28,7 +28,7 @@ Add the gem to the Gemfile:
 
 In your JavaScript manifest (e.g. `application.js`):
 
-    //= require highstocks-rails
+    //= require highstocks
 
 
 To include one of the other adapters:
