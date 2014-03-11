@@ -1,3 +1,7 @@
+# 1.3.10 / 2014-03-10
+
+Updated for HighStocks 1.3.10.
+
 # 1.3.9 / 2014-01-21
 
 Updated for HighStocks 1.3.9 and versioning as per the highstocks versions
