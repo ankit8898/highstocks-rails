@@ -22,9 +22,9 @@ Gem::Specification.new do |s|
   s.add_development_dependency "rails",   ">= 3.1"
   s.add_development_dependency 'rake'
   s.post_install_message = <<-MESSAGE
-  !    The '_____' gem has been deprecated and has been replaced by '_____'.
-  !    See: https://rubygems.org/gems/_____
-  !    And: https://github.com/_____/_____
+  !    The 'highstocks-rails' gem has been deprecated (naming change) and has been replaced by 'highstock-rails'.
+  !    See: https://rubygems.org/gems/highstock-rails
+  !    And: https://github.com/ankit8898/highstock-rails
   MESSAGE
 
 end
