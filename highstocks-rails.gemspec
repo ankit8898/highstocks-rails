@@ -21,5 +21,10 @@ Gem::Specification.new do |s|
   s.add_development_dependency "bundler", "~> 1.0"
   s.add_development_dependency "rails",   ">= 3.1"
   s.add_development_dependency 'rake'
+  s.post_install_message = <<-MESSAGE
+  !    The '_____' gem has been deprecated and has been replaced by '_____'.
+  !    See: https://rubygems.org/gems/_____
+  !    And: https://github.com/_____/_____
+  MESSAGE
 
 end
