@@ -4,7 +4,7 @@
 
 This gem just includes [Highstocks](http://www.highcharts.com/products/highstock) as an asset in the Rails 3.1 (or newer) asset pipeline.
 
-The gem currently uses **Highstock 1.3.9**
+The gem currently uses **Highstock 2.0.4**
 
 ## What is Highstock?
 
@@ -33,27 +33,28 @@ In your JavaScript manifest (e.g. `application.js`):
 
 To include one of the other adapters:
 
-    //= require highstocks/adapters/mootools-adapter
-    //= require highstocks/adapters/prototype-adapter
     //= require highstocks/adapters/standalone-framework
 
 To include one of the other modules:
 
-    //= require highstocks/modules/annotations
     //= require highstocks/modules/canvas-tools
     //= require highstocks/modules/data
     //= require highstocks/modules/drilldown
     //= require highstocks/modules/exporting
     //= require highstocks/modules/funnel
     //= require highstocks/modules/heatmap
+    //= require highstocks/modules/solid-gauge
     //= require highstocks/modules/no-data-to-display
 
 To include one of the other themes:
 
     //= require highstocks/themes/dark-blue
     //= require highstocks/themes/dark-green
+    //= require highstocks/themes/dark-unica
     //= require highstocks/themes/gray
     //= require highstocks/themes/grid
+    //= require highstocks/themes/grid-light
+    //= require highstocks/themes/sand-signika
     //= require highstocks/themes/skies
 
 
