@@ -1,3 +1,7 @@
+# 2.0.4
+
+View http://www.highcharts.com/documentation/changelog#highstock
+
 # 1.3.10 / 2014-03-10
 
 Updated for HighStocks 1.3.10.
