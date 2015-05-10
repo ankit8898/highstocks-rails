@@ -1,3 +1,11 @@
+# 2.1.5
+
+http://www.highcharts.com/documentation/changelog#highstock
+
+There is a renaming of `highstocks` to `highstock`.
+This is just done to keep the similar naming convention. The impact of this
+will be changing your `require highstocks` to `require highstock`.
+
 # 2.0.4
 
 View http://www.highcharts.com/documentation/changelog#highstock
